@@ -10,3 +10,5 @@
 
 
 Hello world, I love using GIT.
+
+Making a change remotely and pushing locally 
